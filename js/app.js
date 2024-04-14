@@ -1,8 +1,8 @@
 const projects = [
   {
     title: "EXAM",
-    githubLink: "https://github.com/mukh4mmadov/my-team1",
-    vercelLink: "https://my-team1-three.vercel.app/",
+    githubLink: "https://github.com/mukh4mmadov/my-team111",
+    vercelLink: "https://my-team111.vercel.app/",
   },
 ];
 
